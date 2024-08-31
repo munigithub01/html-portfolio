@@ -1,0 +1,31 @@
+.images {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+
+.text {
+  color: white;
+  font-size: 18px;
+}
+
+.main {
+  background-color: black;
+  width: 50%;
+  margin: auto;
+  position: relative;
+  top: 125px;
+}
+body{
+    background: linear-gradient(300deg, #00bfff, #ff4c68,#00bfff);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+}

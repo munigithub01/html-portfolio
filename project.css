@@ -1,0 +1,40 @@
+
+body{
+    background: linear-gradient(300deg, #00bfff, #ff4c68,#00bfff);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+}
+.heading {
+    background-color: black;
+    text-align: center;
+    height: 70px;
+  }
+  
+  
+  .first{
+     width: 400px;
+      background-color: black;
+  }
+  
+  .flex{
+      display: flex;
+      flex-direction: column;
+  gap: 50px;
+      padding-top: 70px;
+      
+      align-items: center;
+  }
+  
+  h2{
+      text-align: center;
+  }
+  
+  p{
+      text-align: center;
+  
+  }
+  
+  img{
+  padding: 70px;
+  }
+  

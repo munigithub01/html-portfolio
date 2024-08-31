@@ -1,0 +1,25 @@
+body {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #00bfff);
+  background-size: 180% 180%;
+  animation: gradient-animation 10s ease infinite;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  position: relative;
+  top: 10px;
+}
+
+.main {
+  text-align: center;
+
+  background-color: black;
+
+  color: white;
+  width: 70%;
+  margin: auto;
+  position: relative;
+  top: 50px;
+}
